@@ -1,4 +1,4 @@
-#My small date app.
+My small date app.
 
 # Getting Started with Create React App
 
